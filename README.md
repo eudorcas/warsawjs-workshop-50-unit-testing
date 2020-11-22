@@ -2,4 +2,4 @@
 
 ## WarsawJS Workshop #50 - Unit testing
 
-Przed przystąpieniem do pracy uruchom konfigurację bazy danych: ` cd server && npm run db`.
+Excercises from unit tests and TDD :tada: Many thanks to [Michał Bury](https://github.com/mbury) :rocket: & [WarsawJS](https://warsawjs.com/) :hearts:
