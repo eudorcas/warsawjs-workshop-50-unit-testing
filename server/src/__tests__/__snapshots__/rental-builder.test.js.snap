@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should return rental 1`] = `
+Rental {
+  "car_id": 22,
+  "client_id": 1,
+  "deposit": 1000,
+  "rental_id": 1,
+  "state": "RESERVED",
+}
+`;

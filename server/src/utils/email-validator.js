@@ -6,4 +6,5 @@ function isEmailAllowed(email) {
     /^[a-zA-Z]+$/.test(login)
   );
 }
+
 module.exports = { isEmailAllowed };
